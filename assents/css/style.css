@@ -1,0 +1,62 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    overflow-x: hidden;
+}
+
+main{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.page-title{
+    padding-top: 45px;
+    padding-bottom: 45px;
+    margin-bottom: 30px;
+    text-align: center;
+    background-color: yellowgreen;
+    color: white;        
+}
+
+.section-form{
+    text-align: center; 
+}
+
+.box-form{
+    margin-top: 73px;
+}
+#search{
+    margin-top: 50px;
+}
+
+#search-results p{
+    font-size: 20px;
+}
+
+.state-title{
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.page-subtitle{    
+    margin-bottom: 30px;    
+    font-weight: bold;
+}
+
+article > section {
+    padding: 55px 0px;
+}
+
+.copyright{
+    text-align: center;
+    font-size: 18px;
+    color: white;    
+}
+
+.copyright a{
+    color: rgb(187, 187, 187);
+}
+
+footer{
+    background-color: green;
+    padding: 55px 0px;
+}
